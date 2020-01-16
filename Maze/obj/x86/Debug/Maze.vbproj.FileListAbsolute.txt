@@ -1,0 +1,42 @@
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\bin\Debug\Maze.xml
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.Form1.resources
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.Resources.resources
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.vbproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.exe
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.xml
+C:\Users\Asus\Desktop\For_Universitet\ИС\Лабы\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.pdb
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.exe
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.xml
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.pdb
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\bin\Debug\Maze.exe
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\bin\Debug\Maze.pdb
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\bin\Debug\Maze.xml
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.Form1.resources
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.Resources.resources
+C:\Users\Asus\Desktop\For_Universitet\InfSys\Labs\Lab4\2_Maze\Maze\obj\x86\Debug\Maze.vbproj.GenerateResource.Cache
+G:\Приложения\Приложения\Work.Sasha\Microsoft Visual Basic 2010 Express Projects\2_Maze\Maze\obj\x86\Debug\Maze.exe
+G:\Приложения\Приложения\Work.Sasha\Microsoft Visual Basic 2010 Express Projects\2_Maze\Maze\obj\x86\Debug\Maze.xml
+G:\Приложения\Приложения\Work.Sasha\Microsoft Visual Basic 2010 Express Projects\2_Maze\Maze\obj\x86\Debug\Maze.pdb
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.exe
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.xml
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.pdb
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\bin\Debug\Maze.exe
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\bin\Debug\Maze.pdb
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\bin\Debug\Maze.xml
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.Form1.resources
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.Resources.resources
+E:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.vbproj.GenerateResource.Cache
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.exe
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.xml
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.pdb
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\bin\Debug\Maze.exe
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\bin\Debug\Maze.pdb
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\bin\Debug\Maze.xml
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.Form1.resources
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.Resources.resources
+G:\Programs\Programs\Work_Sasha\Microsoft_VB_2010_Express_Projects\2_Maze\Maze\obj\x86\Debug\Maze.vbproj.GenerateResource.Cache
+C:\Users\Comp\Desktop\Maze\Maze\obj\x86\Debug\Maze.exe
+C:\Users\Comp\Desktop\Maze\Maze\obj\x86\Debug\Maze.xml
+C:\Users\Comp\Desktop\Maze\Maze\obj\x86\Debug\Maze.pdb
